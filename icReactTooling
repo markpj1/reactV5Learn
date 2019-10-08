@@ -1,0 +1,11 @@
+[33mcommit 632a3980410892249dce5c2b9e5ee90340e27fd4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32msrc[m[33m, [m[1;32mbasicReactTooling[m[33m)[m
+Author: markpj1 <markpj@hotmail.com>
+Date:   Sat Oct 5 13:58:33 2019 -0700
+
+    basic react tooling
+
+[33mcommit cd13b727efa79e9c34b5bdc45c5659d3fe1ffd35[m
+Author: markpj1 <markpj@hotmail.com>
+Date:   Fri Oct 4 20:41:07 2019 -0700
+
+    basic react tooling prettier eslint react react-dom
